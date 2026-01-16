@@ -1,0 +1,29 @@
+# Build artifacts
+build/
+*.elf
+*.bin
+*.hex
+*.uf2
+*.o
+*.a
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
